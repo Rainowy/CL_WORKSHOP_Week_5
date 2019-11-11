@@ -1,7 +1,7 @@
 package pl.coderslab.model;
 
 public class Car {
-
+    //working
     private String name;
     private String model;
 
